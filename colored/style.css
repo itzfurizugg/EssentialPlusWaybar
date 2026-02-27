@@ -1,0 +1,16 @@
+/* -----------------------------------------------------
+ * Import Matugen Colors
+ * ----------------------------------------------------- */
+@import '../../../../../.config/waybar/colors.css';
+
+@define-color background @secondary;
+@define-color textcolor @on_secondary;
+@define-color textcolor2 @inverse_surface;
+
+@define-color wifi @on_secondary;
+@define-color volume @on_secondary;
+@define-color battery @on_secondary;
+@define-color clock @on_secondary;
+@define-color workspace @inverse_surface;
+
+@import '../style.css';
