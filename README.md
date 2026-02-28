@@ -1,11 +1,17 @@
-<img width="1920" height="87" alt="screenshot_20260301_062219" src="https://github.com/user-attachments/assets/44b7a9b3-3348-4f5e-b835-faac19a79dbc" /># EssentialPlus by rizuuuu!
+
 
 A Hyprland Waybar Theme
 
 Screenshot: 
 
+Dark
 
-![Uploading screenshot_20260301_062244.jpg…]()
+<img width="1920" height="87" alt="dark" src="https://github.com/user-attachments/assets/35ca60d3-d26c-49ef-ad70-0f28cb6ac07a" />
+
+
+Colored
+
+<img width="1920" height="109" alt="colored" src="https://github.com/user-attachments/assets/993e159a-0df7-44ca-aee0-5c26cabe4b9b" />
 
 
 - Copy the folder "~/.config/waybar/themes/starter" and define a custom folder name
