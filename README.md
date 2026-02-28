@@ -1,6 +1,12 @@
-# Waybar Theme Starter
+<img width="1920" height="87" alt="screenshot_20260301_062219" src="https://github.com/user-attachments/assets/44b7a9b3-3348-4f5e-b835-faac19a79dbc" /># EssentialPlus by rizuuuu!
 
-Create your own Waybar Theme based on this starter theme.
+A Hyprland Waybar Theme
+
+Screenshot: 
+
+
+![Uploading screenshot_20260301_062244.jpg…]()
+
 
 - Copy the folder "~/.config/waybar/themes/starter" and define a custom folder name
 - Open config.sh and enter the name of your new theme
