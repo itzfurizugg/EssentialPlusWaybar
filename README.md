@@ -12,6 +12,10 @@ A Hyprland Waybar Theme
 
 # 📸 - Screenshot: 
 
+<b>Light</b>
+
+<img width="1920" height="98" alt="light" src="https://github.com/user-attachments/assets/9ef10baa-fb7e-4d84-946d-3b2c95cf63e9" />
+
 <b>Dark</b>
 
 <img width="1920" height="87" alt="dark" src="https://github.com/user-attachments/assets/35ca60d3-d26c-49ef-ad70-0f28cb6ac07a" />
